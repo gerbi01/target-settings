@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{c as r,a,o as t}from"./AUCuRmwk.js";const c={};function n(s,e){return t(),r("div",null,[...e[0]||(e[0]=[a("h1",null," Groupkey Feedback Page ",-1)])])}const f=o(c,[["render",n]]);export{f as default};
